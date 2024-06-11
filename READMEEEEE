@@ -1,0 +1,28 @@
+## FOR A PERSON TO APE SOMEONES CODE AND SHARE IT ON GITHUB FOR FREE, NOW UNDERSTAND THE SAME
+NOTE: Create market is meant for spamming so only keep like 0.4 sol in your deployer wallet if you want haha
+
+1. SETUP
+    a) Run `npm i`.  
+
+    b) Put your blockengine keypair inside of blockengine.json.  
+
+    c) Edit the config.ts, there is 2 different keypairs in config.ts.  One is for paying all the sol distribution fees 
+    and one is for creating the pool (so they have no ties whatsoever).  You can make it the same keypair if you want haha
+
+2. SCRIPT FUNCTIONS
+
+    NOTICE: Start by going sequential order through all steps.
+
+    A) Create keypairs (1).  Don't need to do it for every launch, just when you want but ensure there no SOL in them. 
+
+    B) Premarket (2).  DO ALL STEPS 2-6 IN ORDER!!!!  After each step check the Bundle ID to make sure it lands.  It the bundle
+    doesn't land simply redo that step with a higher tip!  Then exit.  Check here: https://explorer.jito.wtf/
+
+    C) CREATE POOL (3).  To create a pool just spam the function because sometimes it doesnt land.  Either increase the tip or SPAMMMMMMM. 
+       I recommend tip of 0.1 SOL or more to land within the first few tries.
+
+    D) SELL FEATURES (4/5).  Since pool is now live you can either SELL ALL keypairs at once using (4) and reclaim the WSOL in step 7 of 
+    Premarket (2) after you rug.  YOU CAN ALSO sell small %ages of the supply before hand on demand (5).  It does this by sending 
+    (input)% of every keypairs token balance to the fee payers then sells it all in 1 singular bundle AND only on 1 wallet :)))) kinda advanced haha.
+
+    E) LP REMOVE (6).  If you dont burn your LP it simply removes it hehe :)
