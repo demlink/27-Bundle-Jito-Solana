@@ -1,1 +1,3 @@
-Enquiry telegram: https://t.me/lionelemmark
+Account deleted
+
+please reach out to me on my new Telegram: https://t.me/lionelemmarkk
