@@ -1,3 +1,5 @@
-Account deleted
+Enquiry TG: https://t.me/demlinks
 
-please reach out to me on my new Telegram: https://t.me/lionelemmarkk
+TG Community: https://t.me/demlinkschannel
+
+Discord Community: https://discord.gg/UEmCAbhz9W
